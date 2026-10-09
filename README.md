@@ -1,7 +1,8 @@
 # HELP International: Global Socio-Economic & Development Analysis
 
 ## 📌 Interactive Dashboard Link
-🔗 **[View Live Interactive Dashboard on Tableau Public](YOUR_TABLEAU_PUBLIC_LINK_HERE)**
+🔗 **[View Live Interactive Dashboard on Tableau Public](YOUR_TABLEAU_PUBLIC_LINK_HERE](https://prod-in-a.online.tableau.com/#/site/shalynn615-b010473ed9/views/HELP-International-Socioeconomic-Analysis/Dashboard1ExecutiveOverviewCountryNeedsAssessment
+)**
 
 ---
 
