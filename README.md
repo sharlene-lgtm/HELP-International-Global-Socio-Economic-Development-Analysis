@@ -11,12 +11,12 @@
 ### 1. Executive Overview & Need Matrix
 Identifies priority countries in critical economic distress based on GDP, child mortality, and net income metrics.
 
-![Dashboard 1 Executive Overview](./dashboard-1.png)
+![Dashboard 1 Executive Overview](./Dashboard%201%20Executive%20Overview.png)
 
 ### 2. Structural Drivers & Economic Vulnerability
 Evaluates health expenditure efficiency, trade balances (exports vs. imports), and demographic fertility pressure.
 
-![Dashboard 2 Structural Drivers](./dashboard-2.png)
+![Dashboard 2 Structural Drivers](./Dashboard%202%20Structural%20Drivers.png)
 
 ---
 
